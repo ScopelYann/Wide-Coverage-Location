@@ -1,2 +1,11 @@
-Project Using to the languages HTML and CSS in this project i learned more it about layouts responsives and strutures Semantic and me it gave a experiencie more concrete about CSS.
-although the project no is perfect i tried to leave more perfect possible. please send me opnions about my project for let us help.
+
+# Wide Coverage Location Project
+
+Este é um projeto simples para treinar meus comhecimentos com html e css, que consiste em titulo, patagrafos e botoes 
+
+## Estrutura do Projeto
+
+O projeto consiste nos seguintes arquivos:
+
+- `index.html`: Página principal HTML
+- `style.css`: Folha de estilo CSS para estilizar 
